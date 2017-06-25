@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="unnamed">
+    <output-path>$PROJECT_DIR$/WEB-INF</output-path>
+    <root id="root" />
+  </artifact>
+</component>
